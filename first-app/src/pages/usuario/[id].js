@@ -19,7 +19,7 @@ export default function Usuario() {
     const { id } = router.query
     return (
         < >
-            <h1>usuário selecionado: {usuarios[id-1].nome}</h1>
+            <h1>usuário selecionado: {usuarios[id].nome}</h1>
         </>
     )
 }
