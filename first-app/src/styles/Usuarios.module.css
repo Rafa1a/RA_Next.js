@@ -1,0 +1,5 @@
+.card{
+    display: inline-flex;
+    padding: 40px;
+    border: 1px solid gray;
+}
